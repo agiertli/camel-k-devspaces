@@ -10,7 +10,7 @@ components:
         - exposure: public
           name: http-booster
           protocol: http
-          targetPort: 8080
+          targetPort: 8899
           attributes:
             discoverable: true
             urlRewriteSupported: true
